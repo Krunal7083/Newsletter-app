@@ -8,4 +8,4 @@ searches and provides for the posts with titles matching to the search‐term.
 The header section contains a link to the login page for the author which is protected by username and
 password of the author.
 # Tech Used
-MongoDB,Embeded JavaScript, Express, Bootstrap, React, Nodejs.
+MongoDB,Embeded Java, Express, Bootstrap, React, Nodejs.
